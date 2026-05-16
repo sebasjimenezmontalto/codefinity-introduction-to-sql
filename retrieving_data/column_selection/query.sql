@@ -1,0 +1,1 @@
+SELECT continent FROM country
