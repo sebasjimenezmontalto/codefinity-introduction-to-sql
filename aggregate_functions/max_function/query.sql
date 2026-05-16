@@ -1,0 +1,2 @@
+SELECT max(surfacearea)
+from country
